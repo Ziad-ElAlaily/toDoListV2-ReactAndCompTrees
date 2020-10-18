@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import ToDoItem from "./ToDoItem";
-import todoItem from "./ToDoItem";
 
 function App() {
   const [inputText, setInputText] = useState(" ");
